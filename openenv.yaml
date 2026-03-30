@@ -1,0 +1,5 @@
+name: ai-code-review-env
+description: AI code review environment
+version: 1.0
+
+entry_point: env.environment:CodeReviewEnv
